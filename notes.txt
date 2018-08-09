@@ -1,0 +1,19 @@
+https://phonegap.com
+https://build.phonegap.com
+
+https://www.youtube.com/watch?v=bNw7lqNO6tA
+https://www.youtube.com/watch?v=QxiSuslEIyc
+
+
+
+http://docs.phonegap.com/phonegap-build/configuring/
+https://cordova.apache.org/docs/en/latest/config_ref/images.html
+
+
+https://www.youtube.com/watch?v=je-VIKhUIgI
+
+bootstrap themes
+https://bootswatch.com
+
+
+
