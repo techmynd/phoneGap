@@ -1,2 +1,33 @@
 https://build.phonegap.com/plugins
 
+popular plugins
+
+
+cordova-plugin-ionic-keyboard
+cordova-sqlite-storage
+phonegap-plugin-push
+cordova-plugin-x-socialsharing
+cordova-plugin-app-version
+phonegap-plugin-barcodescanner
+cordova-plugin-facebook4
+cordova-plugin-googlemaps?
+
+
+
+
+statusbar
+<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+https://www.joshmorony.com/take-complete-control-of-the-ios-status-bar-with-phonegap-build/
+
+
+pushwoosh
+<gap:plugin name="com.pushwoosh.plugins.pushwoosh" version="3.0.2" />
+https://www.joshmorony.com/setting-up-the-pushwoosh-plugin-with-phonegap-build/
+
+
+
+more plugins
+https://cordova.apache.org/plugins/?platforms=cordova-android
+https://www.gajotres.net/useful-cordova-plugins-for-your-ionic-application-examples/
+
+
