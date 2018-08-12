@@ -1,0 +1,12 @@
+requirements
+=============
+plugins and cordova.js
+
+appbrowser and device plugins
+and customization for external links
+
+
+https://stackoverflow.com/questions/27318653/phonegap-build-how-do-you-add-plugins-to-app
+https://stackoverflow.com/questions/17887348/phonegap-open-link-in-browser/26036972#26036972
+
+https://www.youtube.com/watch?v=RAxibkNZpI4
