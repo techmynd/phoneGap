@@ -1,0 +1,7 @@
+how to create a certificate for mac store using ssl from cmd
+
+http://www.iandevlin.com/blog/2012/11/phonegap/building-an-ios-signing-key-for-phonegap-in-windows/
+
+
+https://www.youtube.com/watch?v=OyJ4ckb6gSQ
+
